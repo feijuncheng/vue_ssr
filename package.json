@@ -1,0 +1,26 @@
+{
+  "name": "vue_ssr",
+  "version": "1.0.0",
+  "description": "vue_ssr的一次小实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feijuncheng/vue_ssr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feijuncheng/vue_ssr/issues"
+  },
+  "homepage": "https://github.com/feijuncheng/vue_ssr#readme",
+  "dependencies": {
+    "egg": "^2.12.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.9.0"
+  }
+}
