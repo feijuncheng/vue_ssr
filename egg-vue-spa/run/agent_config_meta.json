@@ -1,0 +1,338 @@
+{
+  "siteFile": {
+    "/favicon.ico": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.default.js"
+  },
+  "view": {
+    "cache": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.local.js",
+    "root": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js",
+    "defaultExtension": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.default.js",
+    "renderOptions": {
+      "basedir": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.default.js",
+      "runInNewContext": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "doctype": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "manifest": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "injectHeadRegex": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "injectBodyRegex": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "injectCss": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.local.js",
+    "injectJs": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "injectRes": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "crossorigin": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "mergeLocals": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "fallbackToClient": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "cache": {
+      "max": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+      "maxAge": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "afterRender": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.default.js",
+    "dir": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.default.js",
+    "encoding": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "env": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "level": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "outputJSON": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "buffer": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "appLogName": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "coreLogName": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "agentLogName": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "errorLogName": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.default.js",
+    "dir": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.default.js",
+    "maxAge": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.local.js",
+    "dynamic": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "preload": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "buffer": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js"
+  },
+  "keys": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.default.js",
+  "middleware": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.default.js",
+  "development": {
+    "watchDirs": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.local.js",
+    "ignoreDirs": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.local.js",
+    "fastReady": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js"
+  },
+  "logview": {
+    "dir": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.local.js",
+    "prefix": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-logview@1.0.1@egg-logview\\config\\config.default.js",
+    "staticHost": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-logview@1.0.1@egg-logview\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\config\\config.local.js",
+    "protocolWhiteList": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "useSession": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "cookieName": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "sessionName": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "headerName": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "bodyName": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "queryName": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "value": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.local.js",
+      "maxAge": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "value": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "value": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "policy": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-schedule@3.4.0@egg-schedule\\config\\config.default.js",
+      "file": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-schedule@3.4.0@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fields": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "files": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js"
+  },
+  "cors": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-cors@2.1.1@egg-cors\\config\\config.default.js",
+  "webpack": {
+    "port": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-webpack@4.4.8@egg-webpack\\config\\config.default.js",
+    "proxy": {
+      "host": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-webpack@4.4.8@egg-webpack\\config\\config.default.js",
+      "match": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-webpack@4.4.8@egg-webpack\\config\\config.default.js"
+    },
+    "webpackConfigList": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg-webpack@4.4.8@egg-webpack\\config\\config.default.js"
+  },
+  "env": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "name": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "proxy": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "ipHeaders": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "hostHeaders": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "version": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "description": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "scripts": {
+      "debug": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "clean": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "build": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "start": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "dev": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "lint": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "fix": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "ii": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "axios": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "cross-env": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-bin": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-cors": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-logger": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-scripts": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-validate": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-view-vue-ssr": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "element-ui": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "extend": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "lodash": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "moment": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vue": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vue-hot-reload-api": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vue-router": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vuex": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vuex-router-sync": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "easywebpack-cli": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "easywebpack-vue": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-logview": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-webpack": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-webpack-vue": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "eslint": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "eslint-plugin-vue": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "imagemin-webpack-plugin": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "ip": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vconsole": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "url": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "author": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "license": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "homepage": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "webpack": {
+      "loaders": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "HOME": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "rundir": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "notFound": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "sitefile": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "middlewares": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "httpClient": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "encoding": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "formLimit": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "jsonLimit": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "strict": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "depth": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "parameterLimit": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "logging": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "port": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "hostname": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "responseTimeout": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+}

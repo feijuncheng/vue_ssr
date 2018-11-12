@@ -1,0 +1,6 @@
+2018-10-29 17:49:27,672 INFO 110620 [egg-logview] mount log E:\self\vue_ssr\vue_ssr\egg-vue-spa\logs at http://127.0.0.1:7001/__logs
+2018-10-29 17:49:33,546 INFO 110620 [-/127.0.0.1/-/6ms GET /api/article/list] [access] 127.0.0.1: - GET /api/article/list HTTP/200 2815 - 2 - axios/0.17.1
+2018-10-29 17:49:33,571 INFO 110620 [-/127.0.0.1/-/111ms GET /] [access] 127.0.0.1: - GET / HTTP/200 44658 - 105 - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018-10-29 17:49:36,721 INFO 110620 [-/127.0.0.1/-/1ms GET /api/article/1] [access] 127.0.0.1: - GET /api/article/1 HTTP/200 180 http://127.0.0.1:7001/detail/1 1 - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018-10-29 17:49:39,775 INFO 110620 [-/127.0.0.1/-/2ms GET /api/article/2] [access] 127.0.0.1: - GET /api/article/2 HTTP/200 177 http://127.0.0.1:7001/detail/2 1 - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018-10-29 17:49:41,656 INFO 110620 [-/127.0.0.1/-/1ms GET /api/article/4] [access] 127.0.0.1: - GET /api/article/4 HTTP/200 226 http://127.0.0.1:7001/detail/4 1 - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36

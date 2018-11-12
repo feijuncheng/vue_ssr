@@ -1,0 +1,12 @@
+2018-10-29 17:49:27,741 INFO 111732 [Timer] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-30 00:00:00.000
+2018-10-29 17:49:27,741 INFO 111732 [Timer] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-30 00:00:01.000
+2018-10-30 00:00:00,297 INFO 110620 [1540828800295287374769298562] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js task received by app
+2018-10-30 00:00:00,298 INFO 110620 [1540828800295287374769298562] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js executing by app
+2018-10-30 00:00:00,305 INFO 110620 [1540828800295287374769298562] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js execute succeed, used 6ms
+2018-10-30 00:00:00,295 INFO 111732 [1540828800295287374769298562] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js triggered, send random by agent
+2018-10-30 00:00:00,301 INFO 111732 [Timer] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-31 00:00:00.000
+2018-10-30 00:00:01,293 INFO 111732 [1540828801293287375767003808] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js triggered, send random by agent
+2018-10-30 00:00:01,296 INFO 111732 [Timer] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-31 00:00:01.000
+2018-10-30 00:00:01,293 INFO 110620 [1540828801293287375767003808] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js task received by app
+2018-10-30 00:00:01,293 INFO 110620 [1540828801293287375767003808] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2018-10-30 00:00:01,311 INFO 110620 [1540828801293287375767003808] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 18ms

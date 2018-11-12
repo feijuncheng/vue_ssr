@@ -1,0 +1,21 @@
+2018-10-29 17:49:27,558 INFO 110620 [egg:logger] init all loggers with options: {"dir":"E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-spa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-10-29 17:49:27,594 INFO 110620 [egg-schedule]: register schedule E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-10-29 17:49:27,594 INFO 110620 [egg-schedule]: register schedule E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-10-29 17:49:27,595 INFO 110620 [egg-multipart] stream mode enable
+2018-10-29 17:49:27,664 INFO 110620 [egg-static] starting static serve /public/ -> E:\self\vue_ssr\vue_ssr\egg-vue-spa\public
+2018-10-29 17:49:27,668 INFO 110620 [egg-security] use csrf middleware
+2018-10-29 17:49:27,669 INFO 110620 [egg-security] use methodnoallow middleware
+2018-10-29 17:49:27,669 INFO 110620 [egg-security] use noopen middleware
+2018-10-29 17:49:27,670 INFO 110620 [egg-security] use nosniff middleware
+2018-10-29 17:49:27,671 INFO 110620 [egg-security] use xssProtection middleware
+2018-10-29 17:49:27,671 INFO 110620 [egg-security] use xframe middleware
+2018-10-29 17:49:27,671 INFO 110620 [egg-security] use dta middleware
+2018-10-29 17:49:27,671 INFO 110620 [egg-security] compose 7 middlewares into one security middleware
+2018-10-29 17:49:27,686 INFO 110620 [egg:core] dump config after load, 7ms
+2018-10-29 17:49:27,723 INFO 110620 [egg-watcher:application] watcher start success
+2018-10-29 17:49:27,732 INFO 110620 [egg:core] dump config after ready, 7ms
+2018-10-30 00:00:00,304 INFO 110620 [egg-logrotator] clean all log before 31 days
+2018-10-30 00:00:00,304 INFO 110620 [-/127.0.0.1/-/6ms SCHEDULE /__schedule?path=E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js&type=worker&cron=0%200%20*%20*%20*] [egg-schedule] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js execute succeed, used 6ms
+2018-10-30 00:00:01,311 INFO 110620 [egg-logrotator] broadcast log-reload
+2018-10-30 00:00:01,311 INFO 110620 [egg-logrotator] rotate files success by DayRotator, files ["E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\common-error.log -> E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\common-error.log.2018-10-29","E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\egg-vue-webpack-spa-boilerplate-web.log -> E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\egg-vue-webpack-spa-boilerplate-web.log.2018-10-29","E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\egg-web.log -> E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\egg-web.log.2018-10-29","E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\egg-vue-webpack-spa-boilerplate\\egg-schedule.log -> E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\egg-vue-webpack-spa-boilerplate\\egg-schedule.log.2018-10-29","E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\egg-agent.log -> E:\\self\\vue_ssr\\vue_ssr\\egg-vue-spa\\logs\\egg-agent.log.2018-10-29"]
+2018-10-30 00:00:01,311 INFO 110620 [-/127.0.0.1/-/18ms SCHEDULE /__schedule?path=E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [egg-schedule] E:\self\vue_ssr\vue_ssr\egg-vue-spa\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 18ms

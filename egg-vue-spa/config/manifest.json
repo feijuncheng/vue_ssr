@@ -1,0 +1,21 @@
+{
+  "js/chunk/0.js": "/public/js/chunk/0.js",
+  "app.js": "/public/js/app.js",
+  "img/loading.gif": "/public/img/loading.gif",
+  "js/vendor.js": "/public/js/vendor.js",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "app.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/app.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "\\public",
+    "mapped": true
+  }
+}

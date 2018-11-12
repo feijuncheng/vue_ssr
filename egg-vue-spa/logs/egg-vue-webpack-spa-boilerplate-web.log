@@ -1,0 +1,11 @@
+2018-10-30 08:46:43,852 INFO 110620 [-/127.0.0.1/-/1ms GET /api/article/1] [access] 127.0.0.1: - GET /api/article/1 HTTP/200 180 http://127.0.0.1:7001/detail/1 0 - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018-10-30 08:47:01,488 INFO 110620 [-/127.0.0.1/-/1ms GET /api/article/list] [access] 127.0.0.1: - GET /api/article/list HTTP/200 2815 - 0 - axios/0.17.1
+2018-10-30 08:47:01,505 INFO 110620 [-/127.0.0.1/-/59ms GET /] [access] 127.0.0.1: - GET / HTTP/200 44658 - 58 - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018-10-30 08:54:01,070 INFO 110620 [-/127.0.0.1/-/1ms GET /api/article/list] [access] 127.0.0.1: - GET /api/article/list HTTP/200 2815 - 1 - axios/0.17.1
+2018-10-30 08:54:01,081 INFO 110620 [-/127.0.0.1/-/52ms GET /] [access] 127.0.0.1: - GET / HTTP/200 44658 http://127.0.0.1:7001/ 51 - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018-11-02 10:26:33,067 INFO 8104 [egg-logview] mount log E:\self\vue_ssr\vue_ssr\egg-vue-spa\logs at http://127.0.0.1:7001/__logs
+2018-11-02 10:26:41,778 INFO 8104 [-/127.0.0.1/-/3ms GET /api/article/list] [access] 127.0.0.1: - GET /api/article/list HTTP/200 2815 - 1 - axios/0.17.1
+2018-11-02 10:26:41,808 INFO 8104 [-/127.0.0.1/-/233ms GET /] [access] 127.0.0.1: - GET / HTTP/200 44658 - 223 - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018-11-02 10:27:52,567 INFO 7520 [egg-logview] mount log E:\self\vue_ssr\vue_ssr\egg-vue-spa\logs at http://127.0.0.1:7001/__logs
+2018-11-02 10:27:58,038 INFO 7520 [-/127.0.0.1/-/3ms GET /api/article/list] [access] 127.0.0.1: - GET /api/article/list HTTP/200 2815 - 1 - axios/0.17.1
+2018-11-02 10:27:58,063 INFO 7520 [-/127.0.0.1/-/110ms GET /] [access] 127.0.0.1: - GET / HTTP/200 44658 - 101 - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
